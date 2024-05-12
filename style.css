@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(242, 192, 127);
+    height: 100%;
+    width: 100%;
+  
+}
+.button{
+    background-color: rgb(232, 214, 187);
+    font-size: 20px;
+    padding: 20px;
+    margin: -4px 4px;
+    border:2px solid rgba(26, 24, 24, 0.955);
+    border-radius: 9px; 
+    cursor: pointer;
+    width:60px;
+}
+.row {
+    margin: 8px 0;
+}
+
+.row input{
+    font-size: 22px;
+    margin: 0;
+    padding: 8px 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
